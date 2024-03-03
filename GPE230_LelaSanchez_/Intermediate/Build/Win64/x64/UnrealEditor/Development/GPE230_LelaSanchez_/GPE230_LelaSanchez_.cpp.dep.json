@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\uat-gitrepos\\gpe230_lelasanchez_\\gpe230_lelasanchez_\\source\\gpe230_lelasanchez_\\gpe230_lelasanchez_.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\uat-gitrepos\\gpe230_lelasanchez_\\gpe230_lelasanchez_\\intermediate\\build\\win64\\x64\\gpe230_lelasanchez_editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "e:\\uat-gitrepos\\gpe230_lelasanchez_\\gpe230_lelasanchez_\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gpe230_lelasanchez_\\definitions.gpe230_lelasanchez_.h",
+            "e:\\uat-gitrepos\\gpe230_lelasanchez_\\gpe230_lelasanchez_\\source\\gpe230_lelasanchez_\\gpe230_lelasanchez_.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

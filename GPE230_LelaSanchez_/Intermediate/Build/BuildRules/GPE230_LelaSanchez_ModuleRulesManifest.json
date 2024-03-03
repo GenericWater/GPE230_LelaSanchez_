@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\UAT-GitRepos\\GPE230_LelaSanchez_\\GPE230_LelaSanchez_\\Source\\GPE230_LelaSanchez_\\GPE230_LelaSanchez_.Build.cs",
+		"E:\\UAT-GitRepos\\GPE230_LelaSanchez_\\GPE230_LelaSanchez_\\Source\\GPE230_LelaSanchez_.Target.cs",
+		"E:\\UAT-GitRepos\\GPE230_LelaSanchez_\\GPE230_LelaSanchez_\\Source\\GPE230_LelaSanchez_Editor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

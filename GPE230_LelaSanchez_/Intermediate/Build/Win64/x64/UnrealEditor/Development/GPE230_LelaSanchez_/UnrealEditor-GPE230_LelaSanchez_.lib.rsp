@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GPE230_LelaSanchez_.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UAT-GitRepos\GPE230_LelaSanchez_\GPE230_LelaSanchez_\Intermediate\Build\Win64\x64\GPE230_LelaSanchez_Editor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"E:\UAT-GitRepos\GPE230_LelaSanchez_\GPE230_LelaSanchez_\Intermediate\Build\Win64\x64\UnrealEditor\Development\GPE230_LelaSanchez_\GPE230_LelaSanchez_.cpp.obj"
+"E:\UAT-GitRepos\GPE230_LelaSanchez_\GPE230_LelaSanchez_\Intermediate\Build\Win64\x64\UnrealEditor\Development\GPE230_LelaSanchez_\NONETEST.cpp.obj"
+"E:\UAT-GitRepos\GPE230_LelaSanchez_\GPE230_LelaSanchez_\Intermediate\Build\Win64\x64\UnrealEditor\Development\GPE230_LelaSanchez_\Default.rc2.res"
+/OUT:"E:\UAT-GitRepos\GPE230_LelaSanchez_\GPE230_LelaSanchez_\Intermediate\Build\Win64\x64\UnrealEditor\Development\GPE230_LelaSanchez_\UnrealEditor-GPE230_LelaSanchez_.lib"

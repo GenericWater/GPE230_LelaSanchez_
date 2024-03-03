@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GPE230_LelaSanchez_.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GPE230_LelaSanchez_.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GPE230_LelaSanchez_Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.editorconfig" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\shadertoolsconfig.json" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GPE230_LelaSanchez_">
+      <UniqueIdentifier>{EC39D82A-02F8-3283-AD10-BAC88757D87B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GPE230_LelaSanchez_\GPE230_LelaSanchez_.Build.cs">
+      <Filter>Source\GPE230_LelaSanchez_</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GPE230_LelaSanchez_\GPE230_LelaSanchez_.cpp">
+      <Filter>Source\GPE230_LelaSanchez_</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GPE230_LelaSanchez_\GPE230_LelaSanchez_.h">
+      <Filter>Source\GPE230_LelaSanchez_</Filter>
+    </ClInclude>
+    <Filter Include="Source\GPE230_LelaSanchez_\Private">
+      <UniqueIdentifier>{FD57F602-2BBA-316A-B605-8AB332838F16}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GPE230_LelaSanchez_\Private\NONETEST.cpp">
+      <Filter>Source\GPE230_LelaSanchez_\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\GPE230_LelaSanchez_\Public">
+      <UniqueIdentifier>{748ECDFF-C7DF-33ED-B123-D8161BAEAF56}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\GPE230_LelaSanchez_\Public\NONETEST.h">
+      <Filter>Source\GPE230_LelaSanchez_\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

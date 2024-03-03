@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GPE230_LelaSanchez_",
+			"Path": "..\\Source\\GPE230_LelaSanchez_.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GPE230_LelaSanchez_Editor",
+			"Path": "..\\Source\\GPE230_LelaSanchez_Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
